@@ -54,7 +54,7 @@ The Note-Taking App is a versatile and user-friendly application designed for bo
 ![Screenshot 2023-11-06 233716](https://github.com/Rehanlukade/Stone-Paper_Scissor/assets/47839836/39d11292-dc1c-4cf4-b2e2-62d6e67b56cd)
 
 ## Create Multiple Notes
-![Screenshot 2023-11-06 234356](https://github.com/Rehanlukade/Stone-Paper_Scissor/assets/47839836/b52a0650-3d8d-4650-8f08-6738c4cb9de8)
+![Screenshot 2023-11-07 002020](https://github.com/Rehanlukade/Pocket-Notes-React/assets/47839836/a4e52e60-5dfe-4da0-a381-9b9c9c52cb52)
 
 
 # Mobile Version
